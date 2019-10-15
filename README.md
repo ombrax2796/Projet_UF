@@ -1,5 +1,7 @@
 # Projet_UF
-## Cahier des charges
+# Cahier des charges
+
+## I - Le jeu
 
 **Intitulé du jeu:** AppDeck (Provisoire)
 
@@ -29,7 +31,7 @@ Nous avons besoin pour ce projet des compétences en programmation, en UX/UI des
 Le projet aura pour but la mise en ligne de l'application sur un service type androïde .   
 
 
-### B - Principe du jeu
+### C - Principe du jeu
 
 **Préparation**
 
@@ -45,10 +47,11 @@ Le projet aura pour but la mise en ligne de l'application sur un service type an
 
 - Début première manche 
 
-- Chaque joueur joue chacun son tour ( si il peut selon le jeu )
+- Chaque joueur joue chacun son tour ( si il peut selon le jeu )(si on joue au poker il faut miser, suivre ou ce coucher)
 
 - Fin première manche 
 
 - On redistribue les carte
 
 - Objectif: Gagné!!
+
