@@ -5,13 +5,13 @@
 
 ### A - Fiche produit
 
-Genre : jeu de carte 
+**Genre** : jeu de carte 
 
-Plate-forme :Portable (android)
+**Plate-forme** :Portable (android)
 
-Moteur : Maya ou ZBrush
+**Moteur** : Maya ou ZBrush
 
-Nombre de Joueurs: De 2 à 6
+**Nombre de Joueurs**: De 2 à 6
 
-Pegi : 3+
+**Pegi** : 3+
 
