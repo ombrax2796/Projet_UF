@@ -41,9 +41,14 @@ Le projet aura pour but la mise en ligne de l'application sur un service type an
 
 **Action**
 
-- Le monde est généré aléatoirement
-- Le jeu commence au niveau 0 de l'asile ( sur 100 étages )
-- Tous les 10 étages, un boss apparait.
-- Tous les 10 étages, changement d'ambiance (visuel/sonore)
-- Tous les 5 étages, zone calme avec un marchand
-- Objectif: Survivre !
+- Les cartes sont distribuées aléatoirement.
+
+- Début première manche 
+
+- Chaque joueur joue chacun son tour ( si il peut selon le jeu )
+
+- Fin première manche 
+
+- On redistribue les carte
+
+- Objectif: Gagné!!
