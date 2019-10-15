@@ -13,7 +13,7 @@
 
 **Moteur** : Maya ou ZBrush
 
-**Nombre de Joueurs** : De 2 à 6
+**Nombre de Joueurs** : 4
 
 **Pegi** : 3+
 
@@ -55,3 +55,54 @@ Le projet aura pour but la mise en ligne de l'application sur un service type an
 
 - Objectif: Gagné!!
 
+
+### D - Composition jeu 
+
+**MENU** 
+
+- Jeu : mène à la liste des jeu
+
+- Règle de jeu : mène au règle des différent jeu
+
+- Paramètre : mène au menu de paramètre
+
+- Profil : profil du joueur
+
+**SOUS MENU : la liste des jeu**
+
+- Un bouton de retour au menu principal
+
+- Un sélecteur de jeu, qui lance le jeu choisi
+
+**SOUS MENU : règle de jeu**
+
+- Un bouton de retour au menu principal
+
+- Un article, avec les règles, pour chaque jeu
+
+**SOUS MENU : paramètre**
+
+- Un bouton de retour au menu principal
+
+- choix langue du jeu 
+
+- on/off musique
+
+- on/off effets sonore
+
+- choix niveaux graphique 
+
+- crédits
+
+- "AIDEZ-MOI"
+
+
+**SOUS MENU : profil**
+
+- Un bouton de retour au menu principal
+
+- Stastitique joueur
+
+- changer Pseudo
+
+- changer mot de passe
