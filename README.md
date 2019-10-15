@@ -96,7 +96,6 @@ Le projet aura pour but la mise en ligne de l'application sur un service type an
 
 - "AIDEZ-MOI"
 
-
 **SOUS MENU : profil**
 
 - Un bouton de retour au menu principal
@@ -106,3 +105,23 @@ Le projet aura pour but la mise en ligne de l'application sur un service type an
 - changer Pseudo
 
 - changer mot de passe
+
+**JEU**
+
+- Un bouton pour couper le son de la musique 
+
+- Un bouton pour couper le son des effets sonore 
+
+- Un affichage des décors
+
+- jouer carte 
+
+- piocher carte 
+
+- pouvoir de certaine carte (selon le jeu)
+
+- Affiche le vainqueur
+
+- quitter jeu si éliminé
+
+- regarder si éliminé
