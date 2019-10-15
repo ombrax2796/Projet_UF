@@ -125,3 +125,5 @@ Le projet aura pour but la mise en ligne de l'application sur un service type an
 - quitter jeu si éliminé
 
 - regarder si éliminé
+
+## II - Technologies
