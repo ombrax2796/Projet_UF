@@ -127,3 +127,11 @@ Le projet aura pour but la mise en ligne de l'application sur un service type an
 - regarder si éliminé
 
 ## II - Technologies
+
+### A - Logiciels
+
+**Animation 3D** : Maya ou ZBrush.
+ 
+**UX/UI design** : Adobe XD
+ 
+ compétences en programmation, en ,  et
