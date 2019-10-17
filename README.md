@@ -1,9 +1,13 @@
-# Projet_UF
-# Cahier des charges
+# Cahier des charges - Projet UF Dév Logiciel
+
+## Auteurs
+*   **Bordeaux Ynov Campus Informatique**
+    *   Arthur Fourfooz - B2A - [ombrax2796](https://github.com/ombrax2796)
+    *   Yann LE COZ - B2B - [ianlcz](https://github.com/ianlcz)
 
 ## I - Le jeu
 
-**Intitulé du jeu:** AppDeck (Provisoire)
+**Intitulé du jeu:** AppDeck (Titre provisoire)
 
 ### A - Fiche produit
 
@@ -20,53 +24,54 @@
 
 ### B - Description du jeu
 
-Nous souhaitons créer un jeu de carte interactif sur mobile. 
+Nous souhaitons **créer un jeu de carte interactif sur mobile**. 
 
-Dans ce projet nous créerons au moins un jeu de cartes ou au mieux une application qui permet d'accéder à plusieurs jeux de cartes tels que "le Président", le "Dutch" ou bien le "Poker"(plus de jeux si possible).
+Dans ce projet nous créerons au moins un jeu de cartes ou au mieux plusieurs jeux de cartes tels que le *Président*, le *Dutch* ou bien le *Poker* (plus de jeux si possible).
 
-Nous créerons donc son univers graphique et son aspect technique (programmation/modélisation).  
+Avec l'aide d'étudiants d'**Animation 3D et jeu vidéo** et de **Design graphique création**, nous créerons l'univers graphique et l'aspect technique (programmation et modélisation) du jeu.  
 
-Nous avons besoin pour ce projet des compétences en programmation, en UX/UI design,  et 3D animation (Maya, ZBrush).
+Pour mener à bien ce projet, nous aurons à la fois besoin de **compétences en programmation**, **en UX/UI design**, et **3D animation** (*Maya*, *ZBrush*).
 
-Le projet aura pour but la mise en ligne de l'application sur un service type androïde .   
+L'application devra être déployée sur des smartphones *Androïd*.  
 
 
 ### C - Principe du jeu
 
 **Préparation**
 
-- Le joueur choisit son jeu ( entre "Président", "Dutch" ou "Poker" )
+- Le joueur choisit son jeu ( entre *Président*, *Dutch* ou *Poker* );
 
-- Il choisit un type de partie ( Solo / Multi )
+- Il choisit un type de partie ( Solo ou Multijoueur );
 
-- Lancement du jeu !
+- Le jeu se lance.
 
 **Action**
 
-- Les cartes sont distribuées aléatoirement.
+1.  Les cartes sont distribuées aléatoirement;
 
-- Début première manche 
+2.  Début de la première manche;
 
-- Chaque joueur joue chacun son tour ( si il peut selon le jeu )(si on joue au poker il faut miser, suivre ou ce coucher)
+3.  Chaque joueur joue chacun son tour en fonction du jeu qu'il joue:
+    *   Si il joue au *Poker* il faut miser, suivre ou ce coucher.
 
-- Fin première manche 
+4.  Fin de la première manche 
 
-- On redistribue les carte
+5.  On redistribue les cartes
 
-- Objectif: Gagné!!
+6.  Objectif: **Gagné!!**
 
 
 ### D - Composition jeu 
 
 **MENU** 
 
-- Jeu : mène à la liste des jeu
+- Jeu : mène à la liste des jeux
 
-- Règle de jeu : mène au règle des différent jeu
+- Règle de jeu : mène au règle des différents jeux
 
 - Paramètre : mène au menu de paramètre
 
-- Profil : profil du joueur
+- Profil : profil du joueur (Pseudo, score)
 
 **SOUS MENU : la liste des jeu**
 
@@ -84,15 +89,15 @@ Le projet aura pour but la mise en ligne de l'application sur un service type an
 
 - Un bouton de retour au menu principal
 
-- choix langue du jeu 
+- Choix du langage du jeu 
 
-- on/off musique
+- Activé ou désactivé la musique sonore
 
-- on/off effets sonore
+- Activé ou désactivé les effets sonores
 
-- choix niveaux graphique 
+- Choix niveau graphique du jeu 
 
-- crédits
+- Les crédits
 
 - "AIDEZ-MOI"
 
@@ -102,39 +107,37 @@ Le projet aura pour but la mise en ligne de l'application sur un service type an
 
 - Stastitique joueur
 
-- changer Pseudo
+- Changer son Pseudo
 
-- changer mot de passe
+- Changer son Mot de passe
 
 **JEU**
 
 - Un bouton pour couper le son de la musique 
 
-- Un bouton pour couper le son des effets sonore 
+- Un bouton pour couper le son des effets sonores
 
 - Un affichage des décors
 
-- jouer carte 
+- Jouer carte 
 
-- piocher carte 
+- Piocher carte 
 
-- pouvoir de certaine carte (selon le jeu)
+- Pouvoir de certaine carte (selon le jeu)
 
-- Affiche le vainqueur
+- Afficher le vainqueur
 
-- quitter jeu si éliminé
-
-- regarder si éliminé
+- Quitter le jeu si éliminé
 
 ## II - Technologies
 
 ### A - Logiciels
 
-**Animation 3D** : Maya ou ZBrush.
+**Animation 3D** : Maya ou ZBrush;
  
-**UX/UI design** : Adobe XD
+**UX/UI design** : Adobe XD;
  
-**Programmation** : Visual Studio Code (option)
+**Programmation** : Visual Studio Code (optionnel)
 
 ### B - Compétences
 
@@ -142,6 +145,6 @@ Le projet aura pour but la mise en ligne de l'application sur un service type an
 
 **UX/UI design** : Méthodologie créative
 
-**Programmation** : Java
+**Programmation** : Java, Programmation Orientée Objet, SQL
 
 
