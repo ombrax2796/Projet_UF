@@ -134,4 +134,8 @@ Le projet aura pour but la mise en ligne de l'application sur un service type an
  
 **UX/UI design** : Adobe XD
  
- compétences en programmation, en ,  et
+**Programmation** : Visual Studio Code (option)
+
+### B - Compétences
+
+
