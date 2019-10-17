@@ -138,4 +138,10 @@ Le projet aura pour but la mise en ligne de l'application sur un service type an
 
 ### B - Compétences
 
+**Animation 3D** : 
+
+**UX/UI design** : Méthodologie créative
+
+**Programmation** : Java
+
 
