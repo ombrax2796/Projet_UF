@@ -141,7 +141,7 @@ L'application devra être déployée sur des smartphones *Androïd*.
 
 ### B - Compétences
 
-**Animation 3D** : 
+**Animation 3D** : Dessin 3D et modélisation
 
 **UX/UI design** : Méthodologie créative
 
